@@ -10,4 +10,4 @@ The below mentioned Python files are based on YouTube video https://youtu.be/kQ8
 05. Snake.py
 06. Graph App.py
 07. Image Editor.py
-
+08. Music Player.py
